@@ -1,0 +1,3 @@
+[target.mipsel-unknown-linux-gnu]
+linker = "toolchain/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-gcc"
+ar = "toolchain/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-ar"
